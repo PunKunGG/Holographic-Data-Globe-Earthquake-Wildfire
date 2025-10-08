@@ -1,0 +1,1 @@
+!pip -q install plotly requests pandas numpy gradio
