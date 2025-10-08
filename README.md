@@ -66,13 +66,13 @@ Mini Project นี้เป็นงาน Final Project ของรายว�
 7. กด Export HTML เพื่อบันทึกลูกโลกไว้เป็นไฟล์
 
 # 🧠 ฟีเจอร์ทั้งหมด
-✅ ดึงข้อมูลจาก USGS & NASA API
-✅ เก็บข้อมูลใน CSV
-✅ แสดงลูกโลก 3D Interactive
-✅ Filter: Date / Region / Magnitude / Depth
-✅ Timeline Animation (ปุ่ม Play/Pause)
-✅ Summary Stats + Daily Stats + Lat/Lon Heat Bins
-✅ Export HTML
+- ✅ ดึงข้อมูลจาก USGS & NASA API
+- ✅ เก็บข้อมูลใน CSV
+- ✅ แสดงลูกโลก 3D Interactive
+- ✅ Filter: Date / Region / Magnitude / Depth
+- ✅ Timeline Animation (ปุ่ม Play/Pause)
+- ✅ Summary Stats + Daily Stats + Lat/Lon Heat Bins
+- ✅ Export HTML
 
 # 🌐 ตัวอย่างแหล่งข้อมูล
 
