@@ -48,7 +48,7 @@ Holographic-Data-Globe-Earthquake-Wildfire-main/
  python cell_7_GUI.py
 
 4.เปิดใช้งานผ่าน Browser
-โปรแกรมจะเปิดอินเทอร์เฟซ Gradio ที่ http://localhost:7860/
+โปรแกรมจะเปิดอินเทอร์เฟซ Gradio ที่ [http://localhost:7860/](https://e71dad4accb66ff9b8.gradio.live/)
 
 ## API Reference
 - USGS Earthquake API
