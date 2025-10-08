@@ -11,17 +11,17 @@
 
 ## Project Structure
 Holographic-Data-Globe-Earthquake-Wildfire-main/
-│
-├── [Script] Code_FinalProj/
-│   ├── cell_1.py                # ส่วนเริ่มต้นของโปรเจกต์ เช่น import libraries / setup
-│   ├── cell_2.py                # การเตรียมข้อมูลเบื้องต้น
-│   ├── cell_3_API&CSVappend.py  # การดึงข้อมูลจาก API และบันทึกลง CSV
-│   ├── cell_4_Filter_CSV.py     # การกรองข้อมูล CSV
-│   ├── cell_5_Globe&Button.py   # ส่วนของ globe visualization และปุ่มควบคุม
-│   ├── cell_6_Insigh&Heatmap.py # การสร้าง Heatmap และ Insight Visualization
-│   ├── cell_7_GUI.py            # ส่วนของ GUI / main application interface
-│
-└── README.md                    # (มีอยู่ แต่ไม่ได้ใช้ในการสรุป)
+- │
+- ├── [Script] Code_FinalProj/
+- │   ├── cell_1.py                # ส่วนเริ่มต้นของโปรเจกต์ เช่น import libraries / setup
+- │   ├── cell_2.py                # การเตรียมข้อมูลเบื้องต้น
+- │   ├── cell_3_API&CSVappend.py  # การดึงข้อมูลจาก API และบันทึกลง CSV
+- │   ├── cell_4_Filter_CSV.py     # การกรองข้อมูล CSV
+- │   ├── cell_5_Globe&Button.py   # ส่วนของ globe visualization และปุ่มควบคุม
+- │   ├── cell_6_Insigh&Heatmap.py # การสร้าง Heatmap และ Insight Visualization
+- │   ├── cell_7_GUI.py            # ส่วนของ GUI / main application interface
+- │
+- └── README.md                    # (มีอยู่ แต่ไม่ได้ใช้ในการสรุป)
 
 ## ⚙️ Requirements
 
